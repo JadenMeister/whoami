@@ -3,4 +3,5 @@ export type Profile ={
     age:number,
     job:string,
     gender:string,
+    charicteristics: string[],
 }

@@ -8,10 +8,11 @@ import Navigation from "./components/Navigation";
 export default function App () {
     return(
         <div className=" items-center flex flex-col h-screen">
-        <Navigation/>
-        <WhoAmI/>
-        <Education/>
-        <Certifications/>
+             <Navigation/>
+            <WhoAmI/>
+            <Education/>
+            <Certifications/>
+
         </div>
 
 
